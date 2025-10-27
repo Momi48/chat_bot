@@ -88,10 +88,10 @@ flutter run
 ```
 
 ### App Screenshots 
-<img width="436" height="817" alt="image" src="https://github.com/user-attachments/assets/4f2eef78-3444-4503-9ce6-7fc2588f80e8" />
-<img width="432" height="809" alt="image" src="https://github.com/user-attachments/assets/c9f6abef-819b-49ae-8618-a31b647ac2d0" />
+<img width="433" height="815" alt="image" src="https://github.com/user-attachments/assets/0d5935db-3b1b-4b11-aeeb-77bb916a5ab0" />
+<img width="434" height="813" alt="image" src="https://github.com/user-attachments/assets/daf3cb78-7630-402d-9758-bcbe8ef1b1b5" />
 
-### Notice the Weird Response 
-<img width="439" height="556" alt="image" src="https://github.com/user-attachments/assets/c031fa64-f1ee-44f7-ba42-e0cc8b28d496" />
+
+
 
 
