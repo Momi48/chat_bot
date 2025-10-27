@@ -13,7 +13,7 @@ At one point, I asked “What is Flutter?” and it started replying with **mole
 So yeah… it might go completely off-topic and act a bit too “creative.”
 
 Use this project for **testing, learning, or experimenting with Firebase AI SDK**,  
-but not for production — unless you enjoy unexpected chemistry lessons. 
+but not for production
 
 ## 🚀 Getting Started
 
