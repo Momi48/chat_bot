@@ -30,7 +30,7 @@ class _ChattingScreenState extends State<ChattingScreen> {
     });
 
     final prompt = [Content.text(messageController.text)];
-    messageController.clear();
+    
 
     final response = await model.generateContent(prompt);
 
@@ -149,8 +149,10 @@ class _ChattingScreenState extends State<ChattingScreen> {
                       child: IconButton(
                         onPressed: () {
                           setState(() {});
-                          sendMessage();
+                          sendMessage().then((_){
                           messageController.clear();
+                          });
+                          
                         },
                         icon: Icon(Icons.send, color: Colors.white),
                       ),
