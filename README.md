@@ -4,16 +4,7 @@ A simple **Flutter chatbot app** integrated with **Firebase AI Logic SDK**, **Cl
 This app lets users send messages to a Gemini-powered AI and see responses in real-time.
 
 ---
-## ⚠️ Warning Before Getting Started — About Gemini 2.5 Responses 
 
-Just a heads-up — when I was testing this project using **Gemini 2.5**,  
-I started getting some **really weird responses**.
-
-At one point, I asked “What is Flutter?” and it started replying with **molecular formulas**.  
-So yeah… it might go completely off-topic and act a bit too “creative.”
-
-Use this project for **testing, learning, or experimenting with Firebase AI SDK**,  
-but not for production
 
 ## 🚀 Getting Started
 
