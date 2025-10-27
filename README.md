@@ -95,3 +95,12 @@ Once setup is done:
 flutter pub get
 flutter run
 ```
+
+### App Screenshots 
+<img width="436" height="817" alt="image" src="https://github.com/user-attachments/assets/4f2eef78-3444-4503-9ce6-7fc2588f80e8" />
+<img width="432" height="809" alt="image" src="https://github.com/user-attachments/assets/c9f6abef-819b-49ae-8618-a31b647ac2d0" />
+
+### Notice the Weird Response 
+<img width="439" height="556" alt="image" src="https://github.com/user-attachments/assets/c031fa64-f1ee-44f7-ba42-e0cc8b28d496" />
+
+
